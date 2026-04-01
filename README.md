@@ -1,5 +1,7 @@
 # Hey, I'm Anas Alam
 
+Portfolio: https://anasalam.vercel.app/
+
 - Software Engineer  
 - Currently building: MBTI Test Web App (Next.js)  
 - Learning: DSA + System Design (basics)  
@@ -22,6 +24,8 @@
 - Team management platform
 - Secure role based auth built from scratch
 - Task assigning and updates
+- Live: https://worknest-teams.vercel.app/
+- Repo: https://github.com/anasalam-xyz/worknest
 
 ### MBTI Test Website
 - Minimal personality test
