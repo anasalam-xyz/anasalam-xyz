@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Anas Alam
 
-<!--
-**anasalam-xyz/anasalam-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer  
+- Currently building: MBTI Test Web App (Next.js)  
+- Learning: DSA + System Design (basics)  
+- based in India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Java, JavaScript, Python
+- Frontend: Next.js, React, Tailwind CSS
+- Backend: Express.js, REST api, WebSockets
+- Databases: MySQL, MongoDB
+- Tools: Git, Github, Clerk, Supabase
+
+---
+
+## Projects
+
+### WorkNest
+- Team management platform
+- Secure role based auth built from scratch
+- Task assigning and updates
+
+### MBTI Test Website
+- Minimal personality test
+- Built with Next.js + Tailwind
+- Repo: https://github.com/anasalam-xyz/small-mbti/
+
+### More coming soon...
+
+---
