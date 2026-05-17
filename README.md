@@ -3,8 +3,7 @@
 Portfolio: https://anasalam.vercel.app/
 
 - Software Engineer  
-- Currently building: MBTI Test Web App (Next.js)  
-- Learning: DSA, Next.js and TypeScript  
+- Currently Learning: DSA, Next.js and TypeScript  
 - based in Jharkhand, India  
 
 ---
@@ -27,10 +26,17 @@ Portfolio: https://anasalam.vercel.app/
 - Live: https://worknest-teams.vercel.app/
 - Repo: https://github.com/anasalam-xyz/worknest
 
-### MBTI Test Website
+### iNotebook 
+- Secure notes app
+- JWT Authentication and MongoDB Atlas
+- Live: https://inotebook-cc.vercel.app/
+- Repo: https://github.com/anasalam-xyz/inotebook
+
+### Small MBTI - Personality Test App
 - Minimal MBTI personality test
 - Built with Next.js + Tailwind
 - Repo: https://github.com/anasalam-xyz/small-mbti/
+- Live: https://small-mbti.vercel.app
 
 ### More coming soon...
 
