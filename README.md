@@ -1,42 +1,34 @@
 # Hey, I'm Anas Alam
-
-Portfolio: https://anasalam.vercel.app/
-
-- Software Engineer  
-- Currently Learning: DSA, Next.js and TypeScript  
-- based in Jharkhand, India  
+Portfolio: https://anasalam.xyz/
+- Full Stack Developer
+- Based in Jharkhand, India
 
 ---
 
 ## Tech Stack
-- Languages: JavaScript, Java, Python
-- Frontend: React, Tailwind CSS, HTML, CSS
-- Backend: Node.js, Express.js, REST api
-- Databases: MySQL, MongoDB
-- Tools: Git, Github
+- Languages: JavaScript, TypeScript, Java, Python
+- Frontend: React, Next.js (App Router), Tailwind CSS
+- Backend: Node.js, Express.js, REST APIs, Gemini API
+- Databases: PostgreSQL, MongoDB, MySQL
+- Auth: OAuth, Supabase Auth, JWT
+- Tools: Git, GitHub, Vercel, Supabase, Render
 
 ---
 
 ## Projects
 
-### WorkNest
-- Team management platform
-- Secure role based auth built from scratch
-- Task assigning and updates for Team Projects
+### RoundOne — AI Mock Interview Platform
+- AI-powered mock interview platform with conversational question flow
+- Next.js 15, TypeScript, Supabase (PostgreSQL), Gemini API
+- Live: https://getroundone.vercel.app
+- Repo: https://github.com/anasalam-xyz/RoundOne
+
+### WorkNest — Task Management Platform
+- Team task management platform with JWT auth and role-based access
+- React, Node.js, Express.js, MongoDB Atlas
 - Live: https://worknest-teams.vercel.app/
 - Repo: https://github.com/anasalam-xyz/worknest
 
-### iNotebook 
-- Secure notes app
-- JWT Authentication and MongoDB Atlas
-- Live: https://inotebook-cc.vercel.app/
-- Repo: https://github.com/anasalam-xyz/inotebook
-
-### Small MBTI - Personality Test App
-- Minimal MBTI personality test
-- Built with Next.js + Tailwind
-- Repo: https://github.com/anasalam-xyz/small-mbti/
-- Live: https://small-mbti.vercel.app
 
 ### More coming soon...
 
