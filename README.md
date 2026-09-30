@@ -8,7 +8,7 @@ Portfolio: https://anasalam.xyz/
 ## Tech Stack
 - Languages: JavaScript, TypeScript, Java, Python
 - Frontend: React, Next.js (App Router), Tailwind CSS
-- Backend: Node.js, Express.js, REST APIs, Gemini API
+- Backend: FastAPI, Node.js, Express.js, REST APIs, Gemini API
 - Databases: PostgreSQL, MongoDB, MySQL
 - Auth: OAuth, Supabase Auth, JWT
 - Tools: Git, GitHub, Vercel, Supabase, Render
